@@ -1,2 +1,3 @@
 # testmean
-- This a test MEAN app on a new machine.
+- This a test MEAN app on a new machine. 
+- Javascript
